@@ -12,5 +12,4 @@ jobs:
       with:
         node-version: 12
     - run: echo "@peterhewat:registry=https://npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > ~/.npmrc
-    - run: cat ~/.npmrc
     - run: npm publish
