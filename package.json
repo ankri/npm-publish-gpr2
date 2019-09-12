@@ -1,10 +1,7 @@
 {
   "name": "@peterhewat/npm-publish-gpr2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "files": [
     "dist"
-  ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@peterhewat"
-  }
+  ]
 }
