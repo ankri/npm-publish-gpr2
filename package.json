@@ -1,6 +1,9 @@
 {
   "name": "@peterhewat/npm-publish-gpr2",
   "version": "0.0.3",
+  "repository": {
+    "url": "git://github.com/PeterHewat/npm-publish-gpr2.git"
+  },
   "files": [
     "dist"
   ]
